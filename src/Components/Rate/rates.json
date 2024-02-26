@@ -1,0 +1,26 @@
+[
+   {
+      "id": 1,
+      "color": "#00CED1",
+      "cost": 300,
+      "speed": 10
+   },
+   {
+      "id": 2,
+      "color": "#3CB371",
+      "cost": 450,
+      "speed": 50
+   },
+   {
+      "id": 3,
+      "color": "#FA8072",
+      "cost": 550,
+      "speed": 100
+   },
+   {
+      "id": 4,
+      "color": "black",
+      "cost": 1000,
+      "speed": 200
+   }
+]
